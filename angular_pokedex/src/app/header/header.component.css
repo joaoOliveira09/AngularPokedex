@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #808080; /* Cor de fundo desejada */
+}
+
+nav {
+  background-color: #808080; /* Cor de fundo desejada */
+  padding: 10px;
+  box-shadow: 0 4px 2px -2px gray;
+}
+
+.brand {
+  text-decoration: none;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.brand img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.brand h2 {
+  margin: 0;
+  font-size: 1.5rem;
+}
